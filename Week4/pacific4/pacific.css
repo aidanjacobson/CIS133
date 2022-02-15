@@ -2,7 +2,6 @@ body {
     background: linear-gradient(white, #90C7E3);
     color: #666666;
     font: Arial;
-    padding: unset 2em;
 }
 
 header {
@@ -81,4 +80,10 @@ h3 {
 
 nav a {
     text-decoration: none;
+}
+
+main {
+    padding-left: 2em;
+    padding-right: 2em;
+    display: block;
 }
